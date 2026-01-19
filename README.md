@@ -1,2 +1,0 @@
-# zogtopiafinall
-final smart academy

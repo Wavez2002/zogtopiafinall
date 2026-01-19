@@ -1,0 +1,14 @@
+{
+  "invalidUser": {
+    "email": "nadiradzea10@gmail.com",
+    "password": "arasworiparoli"
+  },
+  "validRegistration": {
+    "firstName": "ანა",
+    "email": "nadiradzea10@gmail.com",
+    "personalId": "010099900",
+    "phone": "598488899",
+    "password": "Zootopia123!",
+    "confirmPassword": "Zootopia123!"
+  }
+}
